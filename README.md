@@ -4,4 +4,4 @@ Platzi library is the Data base made in the course of MySQL in platzi, where an 
 
 Also some queries for the process of transactions and insights are made.
 
-the full schema and data were done using mysqldump.
+The full schema and data file was made by using mysqldump.
